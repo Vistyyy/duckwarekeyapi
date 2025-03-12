@@ -1,7 +1,19 @@
 {
-    "ids": [
-        "43786967499193300278490199201763802162573115537613",
-        "duckwareliteincoming",
-        "1231212"
+    "licenses": [
+        {
+            "username": "user1",
+            "licenseKey": "43786967499193300278490199201763802162573115537613",
+            "hwid": null
+        },
+        {
+            "username": "user2",
+            "licenseKey": "duckwareliteincoming",
+            "hwid": null
+        },
+        {
+            "username": "user3",
+            "licenseKey": "wwwwwwwww",
+            "hwid": null
+        }
     ]
 }
